@@ -14,7 +14,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/",
     "access": "public"
   },
   "repository": {
@@ -27,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/nanianlisao/ci_cd/issues"
   },
-  "gitHead": "361a08771cf7e91fcc559b19ecf0bf82ba5c08f6"
+  "gitHead": "a6bf905027e46f5412342c1d1b839644770adddf"
 }
